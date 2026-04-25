@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Nasir Almasri. I’m a Postdoctoral Scholar with the Society of Fellows at Boston University. I received my PhD in Political Science from MIT in 2024. I previously served as a Predoctoral Fellow at Harvard Kennedy School’s Middle East Initiative (2022-2024) and as a Graduate Fellow at the Middle East Institute in Washington, D.C. (2023-2024).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research sits at the intersection of comparative politics and security studies, and it uniquely engages positivist social science and critical theory. I focus on the Global South and have conducted extensive fieldwork across the Middle East and North Africa. My work has been published in _Perspectives on Politics_, _Contention_, and _PS: Political Science & Politics_.
+
+Feel free to check out my CV or get in contact with me at any time.
