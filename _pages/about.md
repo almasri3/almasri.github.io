@@ -4,10 +4,10 @@ title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: website.jpg
-  image_circular: false # crops the image to make it circular
+# profile:
+  # align: right
+ # image: website.jpg
+  #image_circular: false # crops the image to make it circular
 #  more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -22,9 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 0 # leave blank to include all the blog posts
 ---
 
 Welcome!
