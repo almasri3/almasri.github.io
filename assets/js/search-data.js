@@ -130,7 +130,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Nasir_Almasri_CV.pdf", "_blank");
+          window.open("/assets/pdf/Nasir-Almasri-CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
