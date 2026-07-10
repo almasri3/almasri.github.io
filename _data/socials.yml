@@ -4,7 +4,7 @@
 
 cv_pdf: /assets/pdf/Nasir_Almasri_CV.pdf
 email: nasir.almasri@wellesley.edu
-rss_icon: false # comment this line to hide the RSS icon 
+#rss_icon: false # comment this line to hide the RSS icon 
 scholar_userid: W6wSc98AAAAJ # or comment it out until you have one
 #inspirehep_id: 1010907 # Inspire HEP author ID
 
