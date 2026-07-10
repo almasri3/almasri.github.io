@@ -3,6 +3,11 @@ layout: about
 title: about
 permalink: /
 
+profile:
+  align: right
+  image: assets/img/Screenshot 2024-02-08 at 11.55.05 AM.jpg
+  image_circular: false
+
 selected_papers: false
 social: false
 
