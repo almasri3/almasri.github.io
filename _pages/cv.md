@@ -8,5 +8,5 @@ description:
 ---
 
 <p>
-  <a href="/assets/pdf/Nasir-Almasri-CV.pdf" target="_blank">Download CV</a>
+  <a href="{{ '/assets/pdf/Nasir-Almasri-CV.pdf' | relative_url }}" target="_blank">Download CV</a>
 </p>
