@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profpic.jpg
+  image: website.jpg
   image_circular: false
 
 selected_papers: false
