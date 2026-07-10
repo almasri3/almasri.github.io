@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Screenshot 2024-02-08 at 11.55.05 AM.jpg
+  image: profpic.jpg
   image_circular: false
 
 selected_papers: false
