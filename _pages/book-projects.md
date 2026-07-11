@@ -2,7 +2,7 @@
 layout: page
 title: Book Projects
 permalink: /research/book-project/
-nav: true
+nav: false
 nav_order: 1
 parent: Research
 ---
