@@ -9,21 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-book-projects",
-          title: "Book Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/book-project/";
-          },
-        },{id: "nav-articles",
-          title: "Articles",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/articles/";
-          },
-        },{id: "dropdown-book-project",
+  },{id: "dropdown-book-project",
               title: "Book Project",
               description: "",
               section: "Dropdown",
@@ -51,14 +37,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/research/other-writing/";
               },
-            },{id: "nav-other-writing",
-          title: "Other Writing",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/other-writing/";
-          },
-        },{id: "nav-cv",
+            },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
