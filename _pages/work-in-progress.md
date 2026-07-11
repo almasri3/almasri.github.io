@@ -7,20 +7,24 @@ nav_order: 3
 parent: Research
 ---
 
-## Courting Repression: Anti-Terrorism Courts and Authoritarian Legalism
+### Working Papers 
 
-*In progress.*
+Mobilization without Organization (with Alexei Abrahams and Dana El Kurd)  
+Brief description here.  
 
-This project examines how the global War on Terror reshaped domestic security institutions by turning counterterrorism into routinized legal-bureaucratic governance.
+Islam, the War on Terror, and Pitfalls of the Moderate-Radical Dichotomy  
+Brief description here.  
 
-## Islam, the War on Terror, and Pitfalls of the Moderate-Radical Dichotomy
+### Work-in-Progress  
 
-*In progress.*
+Courting Repression: Anti-Terrorism Courts and Authoritarian Legalism  
+This project examines how the global War on Terror reshaped domestic security institutions by turning counterterrorism into routinized legal-bureaucratic governance.  
 
-Brief description here.
 
-## Mobilization without Organization
 
-*With Alexei Abrahams and Dana El Kurd. In progress.*
+
+
+
+
 
 Brief description here.
