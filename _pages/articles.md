@@ -2,7 +2,7 @@
 layout: page
 title: Articles
 permalink: /research/articles/
-nav: true
+nav: false
 nav_order: 2
 parent: Research
 
