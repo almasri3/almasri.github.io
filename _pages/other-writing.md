@@ -2,7 +2,7 @@
 layout: page
 title: Other Writing
 permalink: /research/other-writing/
-nav: true
+nav: false
 nav_order: 4
 parent: Research
 
