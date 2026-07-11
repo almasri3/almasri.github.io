@@ -51,7 +51,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/research/other-writing/";
               },
-            },{id: "nav-cv",
+            },{id: "nav-other-writing",
+          title: "Other Writing",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/other-writing/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
