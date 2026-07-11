@@ -6,8 +6,8 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: Book Project
-    permalink: /research/book-project/
+  - title: Book Projects
+    permalink: /research/book-projects/
   - title: Articles
     permalink: /research/articles/
   - title: Work in Progress
