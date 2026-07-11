@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Book Projects
-permalink: /research/book-project/
+permalink: /research/book-projects/
 nav: false
 nav_order: 1
 parent: Research
