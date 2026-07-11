@@ -23,7 +23,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
+        },{id: "dropdown-book-project",
+              title: "Book Project",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/book-project/";
+              },
+            },{id: "dropdown-articles",
+              title: "Articles",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/articles/";
+              },
+            },{id: "dropdown-work-in-progress",
+              title: "Work in Progress",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/work-in-progress/";
+              },
+            },{id: "dropdown-other-writing",
+              title: "Other Writing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/other-writing/";
+              },
+            },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
