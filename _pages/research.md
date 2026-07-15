@@ -10,8 +10,8 @@ children:
     permalink: /research/book-projects/
   - title: Articles
     permalink: /research/articles/
-  - title: Work in Progress
-    permalink: /research/work-in-progress/
+  - title: Working Papers
+    permalink: /research/workingpapers/
   - title: Other Writing
     permalink: /research/other-writing/
 ---
