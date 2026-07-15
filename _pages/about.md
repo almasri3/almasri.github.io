@@ -20,8 +20,12 @@ latest_posts:
 
 Welcome!
 
-My name is Nasir Almasri. I’m a Mellon Fellow in Peace & Justice Studies at Wellesley College. I received my PhD in Political Science from MIT in 2024 and previously held appointments at Harvard Kennedy School, Boston University, and the Middle East Institute. 
+My name is Nasir Almasri. I’m a Mellon Fellow in Peace & Justice Studies at Wellesley College. I received my PhD in Political Science from MIT in 2024 and previously held appointments at Harvard Kennedy School, Boston University, and the Middle East Institute.
 
-My research sits at the intersection of comparative politics and security studies, bridging positivist social science and critical theory. I focus on the Global South and have conducted extensive fieldwork across the Middle East and North Africa. My work has been published in _Perspectives on Politics_, _Contention_, and _PS: Political Science & Politics_. I am also a member of the Board of Editors for the Journal of Global South Studies. 
+I study political violence, state-opposition conflict, and security institutions in the Global South, with a regional focus on the Middle East and North Africa. My research bridges comparative politics and international security to examine how colonial legacies and the global War on Terror have shaped patterns of radicalism, repression, and legal-bureaucratic governance.
+
+My book project, *Varieties of Radicalism: The Colonial Origins of State-Opposition Conflict*, explains why some opposition movements radicalize while others do not. It argues that patterns of radicalism are shaped by colonial-era opposition structures and postcolonial configurations of coercive and sovereign authority. Related work examines anti-terrorism courts, authoritarian legalism, and the institutional legacies of the global War on Terror.
+
+My work has been published in *Perspectives on Politics*, *Contention*, and *PS: Political Science & Politics*. I am also a member of the Board of Editors for the *Journal of Global South Studies*.
 
 Feel free to check out my CV or get in touch.
