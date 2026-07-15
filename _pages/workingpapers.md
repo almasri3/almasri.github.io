@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Work in Progress
-permalink: /research/work-in-progress/
+title: Working Papers
+permalink: /research/workingpapers/
 nav: false
 nav_order: 3
 parent: Research
 ---
-
-### Working Papers 
-
+  
 Bringing the War on Terror Home: Courts, Jurisdiction, and Exceptional Procedure  
 
 How did the global War on Terror reshape the domestic institutions used to prosecute terrorism? This paper argues that its influence extended beyond the spread of new counterterrorism laws. It also provided states with a legal and institutional repertoire for reallocating jurisdiction over terrorism cases and introducing exceptional judicial procedures. Governments adapted this repertoire in different ways: some retained terrorism cases in ordinary criminal courts, while others shifted them toward specialized civilian, military, or security institutions and altered rules governing detention, evidence, trial, and appeal. These changes did not simply reflect domestic security needs. They were shaped by a broader international environment that encouraged legal convergence while allowing substantial local adaptation. The paper evaluates this argument using a new dataset tracking changes in the treatment of terrorism cases across 195 countries from 2001 to 2014, combined with four comparative case studies drawn from different regions and institutional trajectories. Together, the evidence shows how global security pressures were translated into varied domestic judicial arrangements.  
