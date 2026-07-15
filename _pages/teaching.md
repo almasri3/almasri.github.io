@@ -12,20 +12,26 @@ My teaching spans international relations, comparative politics, political viole
 
 ## Instructor of Record
 
+### Introduction to Comparative Politics  
+*Boston University, Summer 2026*
+
+This course introduces students to the study of politics across countries and regions. Through comparative analysis of democracy, authoritarianism, institutions, political culture, development, conflict, and social change, students learn how political scientists explain variation in how societies are governed and how political change occurs.
+
 ### People Power in Global Politics  
 *Boston University, Spring 2025; Spring 2026*
 
-This course examines how ordinary people shape global politics through protest, revolution, civil resistance, armed struggle, and transnational activism. Students study cases from the Middle East, Latin America, Eastern Europe, and beyond while engaging debates on power, repression, mobilization, and political change.
+This course examines how ordinary people shape global politics through protest, social movements, digital activism, civil resistance, and everyday forms of political action. Moving beyond elite-centered accounts of international relations, students analyze how power operates from below and how citizens, activists, and movements pursue political change across local, national, and transnational contexts.
 
 ### Introduction to International Politics  
 *Boston University, Summer 2025*
 
-This course introduces students to core concepts and debates in international politics, including war, cooperation, international institutions, political economy, human rights, and global security.
+This course introduces students to major theories, concepts, and debates in international relations. Students examine how states, international institutions, movements, and other actors respond to problems such as war, intervention, nuclear weapons, foreign policy, and global inequality, while learning to apply theoretical frameworks to contemporary international politics.
+
 
 ## Teaching Assistant
 
-**Causes of War and Peace**  
-*MIT, Spring 2020*
-
-**Introduction to Comparative Politics**  
+### Introduction to Comparative Politics  
 *MIT, Fall 2019*
+
+### Causes of War and Peace  
+*MIT, Spring 2020*
