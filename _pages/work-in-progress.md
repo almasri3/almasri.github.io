@@ -1,4 +1,4 @@
-<img width="468" height="221" alt="image" src="https://github.com/user-attachments/assets/1a2639b9-b7ab-448b-9ffa-99f9c79dc941" />---
+---
 layout: page
 title: Work in Progress
 permalink: /research/work-in-progress/
