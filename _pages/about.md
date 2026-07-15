@@ -20,8 +20,8 @@ latest_posts:
 
 Welcome!
 
-My name is Nasir Almasri. I’m a Mellon Fellow in Peace & Justice Studies at Wellesley College. I received my PhD in Political Science from MIT in 2024 and previously held appointments at Harvard Kennedy School, Boston University, and the Middle East Institute.
+My name is Nasir Almasri. I’m a Mellon Fellow in Peace & Justice Studies at Wellesley College. I received my PhD in Political Science from MIT in 2024 and previously held appointments at Harvard Kennedy School, Boston University, and the Middle East Institute. 
 
-My research sits at the intersection of comparative politics and security studies, bridging positivist social science and critical theory. I focus on the Global South and have conducted extensive fieldwork across the Middle East and North Africa. My work has been published in _Perspectives on Politics_, _Contention_, and _PS: Political Science & Politics_.
+My research sits at the intersection of comparative politics and security studies, bridging positivist social science and critical theory. I focus on the Global South and have conducted extensive fieldwork across the Middle East and North Africa. My work has been published in _Perspectives on Politics_, _Contention_, and _PS: Political Science & Politics_. I am also a member of the Board of Editors for the Journal of Global South Studies. 
 
 Feel free to check out my CV or get in touch.
