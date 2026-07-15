@@ -8,15 +8,24 @@ nav_order: 4
 calendar: true
 ---
 
-## Wellesley College
-People Power in the Digital Age (scheduled, Fall 2026)  
+My teaching spans international relations, comparative politics, political violence, social movements, and Middle East politics.
 
-## Boston University
-Introduction to Comparative Politics, Summer 2026 (undergradaute)  
-People Power in Global Politics, Spring 2026 (undergraduate/graduate)  
-Introduction to International Politics, Summer 2025 (high school/bridge)  
-People Power in Global Politics, Spring 2025 (undergraduate/graduate)  
+## Instructor of Record
 
-## MIT
-Introduction to Comparative Politics, Spring 2020, with Chap Lawson (undergraduate)  
-Causes and Consequences of War and Peace, Fall 2019, with Steve Van Evera (undergraduate)  
+### People Power in Global Politics  
+*Boston University, Spring 2025; Spring 2026*
+
+This course examines how ordinary people shape global politics through protest, revolution, civil resistance, armed struggle, and transnational activism. Students study cases from the Middle East, Latin America, Eastern Europe, and beyond while engaging debates on power, repression, mobilization, and political change.
+
+### Introduction to International Politics  
+*Boston University, Summer 2025*
+
+This course introduces students to core concepts and debates in international politics, including war, cooperation, international institutions, political economy, human rights, and global security.
+
+## Teaching Assistant
+
+**Causes of War and Peace**  
+*MIT, Spring 2020*
+
+**Introduction to Comparative Politics**  
+*MIT, Fall 2019*
