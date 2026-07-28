@@ -24,7 +24,7 @@ My name is Nasir Almasri. I’m a Mellon Fellow in Peace & Justice Studies at We
 
 I study political violence, state-opposition conflict, and security institutions in the Global South, with a regional focus on the Middle East and North Africa. My research bridges comparative politics and international security to examine how colonial legacies and the global War on Terror have shaped patterns of radicalism, repression, and legal-bureaucratic governance.
 
-My book project, *Varieties of Radicalism: The Colonial Origins of State-Opposition Conflict*, explains why some opposition movements radicalize while others do not. It argues that patterns of radicalism are shaped by colonial-era opposition structures and postcolonial configurations of coercive and sovereign authority. Related work examines anti-terrorism courts, authoritarian legalism, and the institutional legacies of the global War on Terror.
+My book project, *The Colonial Origins of Opposition: State Formation, Political Competition, and the Evolution of Radicalism*, explains why some opposition movements radicalize while others do not. It argues that patterns of radicalism are shaped by colonial-era opposition structures and postcolonial configurations of coercive and sovereign authority. Related work examines anti-terrorism courts, authoritarian legalism, and the institutional legacies of the global War on Terror.
 
 My work has been published in *Perspectives on Politics*, *Contention*, and *PS: Political Science & Politics*. I am also a member of the Board of Editors for the *Journal of Global South Studies*.
 
