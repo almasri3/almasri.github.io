@@ -24,7 +24,7 @@ This course introduces students to the study of politics across countries and re
 This course examines how ordinary people shape global politics through protest, social movements, digital activism, civil resistance, and everyday forms of political action. Moving beyond elite-centered accounts of international relations, students analyze how power operates from below and how citizens, activists, and movements pursue political change across local, national, and transnational contexts.
 
 **Introduction to International Politics**  
-*Boston University, Summer 2025*
+*Boston University, Summer 2025; Summer 2026*
 
 This course introduces students to major theories, concepts, and debates in international relations. Students examine how states, international institutions, movements, and other actors respond to problems such as war, intervention, nuclear weapons, foreign policy, and global inequality, while learning to apply theoretical frameworks to contemporary international politics.
 
