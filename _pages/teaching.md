@@ -13,7 +13,7 @@ My teaching spans international relations, comparative politics, political viole
 
 ## Instructor of Record
 
-**Introduction to Comparative Politics**  
+**Introduction to Comparative Politics**   
 *Boston University, Summer 2026*
 
 This course introduces students to the study of politics across countries and regions. Through comparative analysis of democracy, authoritarianism, institutions, political culture, development, conflict, and social change, students learn how political scientists explain variation in how societies are governed and how political change occurs.
