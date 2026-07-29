@@ -2,7 +2,7 @@
 layout: page
 title: Research in Progress
 permalink: /research/researchinprogress/
-nav: true
+nav: false
 nav_order: 5
 parent: Research
 ---
