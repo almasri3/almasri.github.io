@@ -37,8 +37,8 @@ This course introduces students to major theories, concepts, and debates in inte
 
 ## Teaching Assistant
 
-**Introduction to Comparative Politics**  
+**Introduction to Comparative Politics** (Chappell Lawson)  
 *MIT, Fall 2019*
 
-**Causes of War and Peace**  
+**Causes and Consequences of War and Peace** (Steve Van Evera)  
 *MIT, Spring 2020*
