@@ -12,8 +12,11 @@ children:
     permalink: /research/articles/
   - title: Working Papers
     permalink: /research/workingpapers/
+  - title: In Progress
+    permalink: /research/researchinprogress/
   - title: Other Writing
     permalink: /research/other-writing/
+    
 ---
 
 This page organizes my current research, publications, and other writing.
