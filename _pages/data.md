@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /data/
-title: Data & Research Materials
+title: Data
 nav: true
 nav_order: 5
 description:
