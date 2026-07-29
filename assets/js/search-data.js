@@ -37,8 +37,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/research/workingpapers/";
               },
-            },{id: "dropdown-in-progress",
-              title: "In Progress",
+            },{id: "dropdown-research-in-progress",
+              title: "Research in Progress",
               description: "",
               section: "Dropdown",
               handler: () => {
