@@ -2,7 +2,7 @@
 layout: page
 permalink: /data/
 title: Data
-nav: true
+nav: false
 nav_order: 5
 description:
 ---
@@ -11,11 +11,6 @@ description:
 
 This project analyzes 53 works of scholarship on the inclusion-moderation literature published between 1994 and 2022. The dataset codes how scholars conceptualize moderation, including references to democracy, pluralism, de-Islamization, non-violence, and working within existing political systems.
 
-Materials may include:
-- bibliography of coded works
-- coding scheme/codebook
-- summary statistics
-- replication materials, when available
 
 [Link coming soon]
 
