@@ -12,7 +12,7 @@ description:
 </p>
 
 <iframe
-  src="/assets/pdf/Nasir-Almasri-CV.pdf"
+  src="{{ '/assets/pdf/Nasir-Almasri-CV.pdf' | relative_url }}"
   width="100%"
   height="1000px"
   style="border: none;">
