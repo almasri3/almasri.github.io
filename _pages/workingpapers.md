@@ -7,9 +7,10 @@ nav_order: 3
 parent: Research
 ---
   
-**Bringing the War on Terror Home: Courts, Jurisdiction, and Exceptional Procedure**  
+**Before the War on Terror: The History of Security Institutions and Counterterrorism Adaptation after 9/11**  
 
-How did the global War on Terror reshape the domestic institutions used to prosecute terrorism? This paper argues that its influence extended beyond the spread of new counterterrorism laws. It also provided states with a legal and institutional repertoire for reallocating jurisdiction over terrorism cases and introducing exceptional judicial procedures. Governments adapted this repertoire in different ways: some retained terrorism cases in ordinary criminal courts, while others shifted them toward specialized civilian, military, or security institutions and altered rules governing detention, evidence, trial, and appeal. These changes did not simply reflect domestic security needs. They were shaped by a broader international environment that encouraged legal convergence while allowing substantial local adaptation. The paper evaluates this argument using comparative case studies from the Middle East and North Africa from 2001 to 2014. Together, the evidence shows how global security pressures were translated into varied domestic judicial arrangements.  
+After 9/11, governments around the world adopted new counterterrorism laws and expanded security cooperation. However, many states did not start from scratch. They already had courts, intelligence agencies, emergency powers, and detention practices that could be adapted to new counterterrorism demands. This paper asks how those pre-existing institutions shaped later change. Focusing mainly on Egypt, Morocco, Jordan, and Saudi Arabia, it shows that post-2001 reforms usually expanded existing institutions rather than replacing them. It also examines the Arab Spring as another major political shock that, despite leadership changes, permitted these security institutions to remain and be adapted to new political contexts. The paper argues that these institutions were shaped by earlier colonial, Cold War, regional, and Western security relationships. Counterterrorism change is thus best understood as a historical process in which new international pressures work through older institutional pathways.<img width="468" height="166" alt="image" src="https://github.com/user-attachments/assets/b603c011-400c-4cb8-95fa-d1865ac73ab7" />
+ 
 
 ---
 
