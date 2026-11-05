@@ -7,10 +7,10 @@ nav_order: 3
 parent: Research
 ---
   
-**Before the War on Terror: The History of Security Institutions and Counterterrorism Adaptation after 9/11**  
+**The Politics of Counterterrorism: Historical Legacies and Institutional Change** 
 
-After 9/11, governments around the world adopted new counterterrorism laws and expanded security cooperation. However, many states did not start from scratch. They already had courts, intelligence agencies, emergency powers, and detention practices that could be adapted to new counterterrorism demands. This paper asks how those pre-existing institutions shaped later change. Focusing mainly on Egypt, Morocco, Jordan, and Saudi Arabia, it shows that post-2001 reforms usually expanded existing institutions rather than replacing them. It also examines the Arab Spring as another major political shock that, despite leadership changes, permitted these security institutions to remain and be adapted to new political contexts. The paper argues that these institutions were shaped by earlier colonial, Cold War, regional, and Western security relationships. Counterterrorism change is thus best understood as a historical process in which new international pressures work through older institutional pathways.
- 
+Why do states change how they prosecute terrorism? After 9/11, governments around the world expanded counterterrorism efforts, but their responses often relied on institutions established long before the War on Terror. This paper argues that changes in terrorism prosecution reflect both historical institutional legacies and shifts in domestic political power. Earlier colonial and international security relationships shaped the courts and legal procedures available to governments, while subsequent political developments influenced how these institutions were adapted. As regimes become more authoritarian, governments are more likely to expand executive control over terrorism prosecutions through specialized courts and exceptional legal procedures. Drawing on comparative historical research in Egypt, Morocco, Jordan, and Saudi Arabia, alongside a developing cross-national dataset, the paper examines how inherited security institutions adapt to new international pressures and changing domestic political conditions. 
+
 
 ---
 
