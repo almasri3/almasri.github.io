@@ -37,13 +37,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/research/workingpapers/";
               },
-            },{id: "dropdown-research-in-progress",
-              title: "Research in Progress",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/researchinprogress/";
-              },
             },{id: "dropdown-other-writing",
               title: "Other Writing",
               description: "",
