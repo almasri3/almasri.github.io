@@ -12,8 +12,6 @@ children:
     permalink: /research/articles/
   - title: Working Papers
     permalink: /research/workingpapers/
-  - title: Research in Progress
-    permalink: /research/researchinprogress/
   - title: Other Writing
     permalink: /research/other-writing/
     
