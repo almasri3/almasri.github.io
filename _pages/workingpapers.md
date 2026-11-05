@@ -26,6 +26,12 @@ This article reassesses how scholars conceptualize moderation and radicalization
 
 ---
 
+**Why States Keep Fighting: Regeneration, Endurance, and the Wars on Iran**
+
+Why do weaker states continue fighting against much stronger adversaries, and when does military pressure compel them to concede? Existing theories of coercion emphasize how states update their expectations about the costs and benefits of continued fighting. This paper argues that relative rates of military regeneration—the ability to replace the capabilities needed to sustain a military strategy—are an important source of information shaping these calculations. Unlike weapons stockpiles or battlefield outcomes, regeneration rates indicate how the balance of military power may change over time. When weaker states can replenish essential capabilities while forcing stronger adversaries to expend difficult-to-replace assets, military superiority may fail to produce coercive leverage. Drawing on the 2025 and 2026 wars involving Iran, the paper examines how missile and drone production, battlefield attrition, and the depletion of defensive interceptors shaped the prospects for continued fighting. It argues that relative regeneration rates help explain wartime endurance and why even large military power advantages may fail to compel weaker states to concede.
+
+---
+
 **Mobilization without Organization** (with Alexei Abrahams and Dana El Kurd)  
 
 Since their rise in the 2000s, social media have had a complicated relationship with social movements. Although they offer unprecedented connectivity, they may also facilitate “mobilization without organization” (Tufekci 2017) or “mobilization without movement” (Yom 2022), generating fragile movements that lack organizational maturity. This paper contributes original evidence from the Palestinian struggle, which is reliant on social media because of geographical diffuseness, the co-optation of formal institutions, and the repression of political parties. We investigate by scraping Twitter and Instagram, conducting face-to-face interviews with activists, and documenting protest data. Our analysis suggests that movements heavily reliant on social media are not necessarily doomed to this trap, as civil society organizations have acquired a growing online footprint. Yet this new de facto structure is emerging organically, without a formal process for conferring authority or ensuring accountability.  
